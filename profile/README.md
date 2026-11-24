@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header-dark.png" alt="NoemaCrypt — Cryptography Begins with Understanding." width="100%">
+  <img src="./header.png" alt="NoemaCrypt — Cryptography Begins with Understanding." width="100%">
 </div>
 
 **NoemaCrypt** is the organization behind [GeoCoin](https://geocoin.network/) — infrastructure for verifiable digital assets and georegistered ledgers. We build the technological foundation for services and registries where data verifiability and independent validation matter.
@@ -17,6 +17,10 @@
 
 ## Links
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
 | | |
 |---|---|
 | 🌍 **Website** | https://geocoin.network/ |
@@ -24,6 +28,15 @@
 | ✈️ **Telegram** | https://t.me/geocoin_network |
 | 𝕏 **X (Twitter)** | [@GeoCoinES](https://x.com/GeoCoinES) |
 | ▶️ **YouTube** | [@GeoCoinES](https://www.youtube.com/@GeoCoinES) |
+
+</td>
+<td width="42%" valign="top">
+
+![GeoCoin](./coin.gif)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
