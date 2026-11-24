@@ -23,6 +23,7 @@
 | 🔎 **Block explorer** | https://explorer.geocoin.network/ |
 | ✈️ **Telegram** | https://t.me/geocoin_network |
 | 𝕏 **X (Twitter)** | [@GeoCoinES](https://x.com/GeoCoinES) |
+| ▶️ **YouTube** | [@GeoCoinES](https://www.youtube.com/@GeoCoinES) |
 
 <div align="center">
 
