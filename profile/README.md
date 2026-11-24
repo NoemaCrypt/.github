@@ -8,6 +8,8 @@
 
 **NoemaCrypt** is the organization behind [GeoCoin](https://geocoin.network/) — infrastructure for verifiable digital assets and georegistered ledgers. We build the technological foundation for services and registries where data verifiability and independent validation matter.
 
+🟢 **Mainnet is live.** The public mainnet (`degree`) launched on September 26, 2026 — see the [launch announcement](https://github.com/NoemaCrypt/.github/discussions/2) or watch live blocks in the [explorer](https://explorer.geocoin.network/).
+
 ## What we build
 
 - **GeoCoin Network** — a proof-of-work blockchain with GeoPoW consensus, UTXO model and a C++ full node
