@@ -24,7 +24,7 @@
 ![Links](./links-panel.png)
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="middle">
 
 ![GeoCoin](./coin.gif)
 
