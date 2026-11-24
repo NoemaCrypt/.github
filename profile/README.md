@@ -19,15 +19,9 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-| | |
-|---|---|
-| 🌍 **Website** | https://geocoin.network/ |
-| 🔎 **Block explorer** | https://explorer.geocoin.network/ |
-| ✈️ **Telegram** | https://t.me/geocoin_network |
-| 𝕏 **X (Twitter)** | [@GeoCoinES](https://x.com/GeoCoinES) |
-| ▶️ **YouTube** | [@GeoCoinES](https://www.youtube.com/@GeoCoinES) |
+![Links](./links-panel.png)
 
 </td>
 <td width="42%" valign="top">
