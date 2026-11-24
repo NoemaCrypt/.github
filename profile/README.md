@@ -19,7 +19,7 @@
 
 - **Website:** https://geocoin.network/
 - **Block explorer:** https://explorer.geocoin.network/
-- **Telegram:** https://t.me/BFBby
+- **Telegram:** https://t.me/geocoin_network
 - **X (Twitter):** [@GeoCoinES](https://x.com/GeoCoinES)
 
 ![Consensus](https://img.shields.io/badge/consensus-GeoPoW-10B981?style=flat-square)
